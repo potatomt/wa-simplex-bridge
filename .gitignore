@@ -1,0 +1,38 @@
+# secrets & local config
+.env
+.env.*
+!.env.example
+names.json
+
+# WhatsApp session / Baileys auth
+auth/
+auth_info*/
+auth_info*
+*.key
+creds.json
+
+# runtime state, logs, media
+msgmap.json
+*.db
+*.sqlite
+*.sqlite3
+logs/
+*.log
+media/
+files/
+
+# pm2
+.pm2/
+*.pid
+
+# node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/

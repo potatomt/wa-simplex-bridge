@@ -1,0 +1,8 @@
+{
+  "_comment": "Map of WhatsApp number (country code + number, no +) to the label shown when that person's messages are forwarded to SimpleX. Copy to names.json and edit. names.json is git-ignored. Labels can be in any language / script.",
+  "15551230001": "Alice",
+  "15551230002": "Bob",
+  "15551230003": "Carol",
+  "447700900123": "Dave",
+  "0000000000": "أحمد"
+}
